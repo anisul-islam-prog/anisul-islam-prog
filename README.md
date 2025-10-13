@@ -62,18 +62,10 @@
 <h2 align="center"> 📌 Featured repos</h2>
 <br>
 <p align="center">
-  <a href="https://github.com/anisul-islam-prog/spring-boot-chatapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=spring-boot-chatapp&hide_border=true" alt="pin1"/>
-  </a>
-  <a href="https://github.com/anisul-islam-prog/STLFusingMLAlgorithms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=STLFusingMLAlgorithms&hide_border=true" alt="pin2"/>
-  </a>
-  <a href="https://github.com/anisul-islam-prog/e-ticketforbus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=e-ticketforbus&hide_border=true" alt="pin3"/>
-  </a>
-  <a href="https://github.com/anisul-islam-prog/dsvtojson">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=dsvtojson&hide_border=true" alt="pin4"/>
-  </a>
+  <a href="https://github.com/anisul-islam-prog/spring-boot-chatapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=spring-boot-chatapp&hide_border=true" alt="pin1"/></a>
+  <a href="https://github.com/anisul-islam-prog/STLFusingMLAlgorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=STLFusingMLAlgorithms&hide_border=true" alt="pin2"/></a>
+  <a href="https://github.com/anisul-islam-prog/e-ticketforbus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=e-ticketforbus&hide_border=true" alt="pin3"/></a>
+  <a href="https://github.com/anisul-islam-prog/dsvtojson"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=dsvtojson&hide_border=true" alt="pin4"/></a>
 </p>
 
 * * *
@@ -91,4 +83,4 @@
 
 ---
 
-> 0⭐️ **_```Leave a star on any repo if it saved you a debugging night!```_**
+##  ⭐️ _Leave a star on any repo if it saved you a debugging night!_
