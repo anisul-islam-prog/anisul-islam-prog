@@ -49,7 +49,7 @@
 
 
 <p align='center'>
-   <img align="center" src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anisul-islam-prog&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>" />
+   <img align="center" src="https://streak-stats.demolab.com?user=anisul-islam-prog&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak"/>
 </p>
 
 <p align='center'>
