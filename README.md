@@ -52,14 +52,6 @@
    <img align="center" src="https://streak-stats.demolab.com?user=anisul-islam-prog&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak"/>
 </p>
 
-<p align='center'>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anisul-islam-prog&show_icons=true&locale=en&layout=donut&card_width=300" alt="anisul-islam-prog" />
-</p>
-<p align ='center'>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anisul-islam-prog&show_icons=true&locale=en" alt="anisul-islam-prog" />
-</p>\
-
-
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center" >
