@@ -11,15 +11,26 @@
 <p align="center">
   I'm a passionate backend engineer with a knack for building scalable systems, automating workflows, and turning coffee into code. My servers sleep less than I do, and my cron jobs are more punctual than my barber.
 </p>
-<hr/>
+
 
 <h2 align="center">🔥 Quick Bits</h2>
 
 <div align="center">
   <p>
-    <p>🌱 Currently learning: <strong>DevOps, AWS, AI</strong></p>
-    <p>👯 Looking to collaborate on: <strong>CI/CD, Backend Development, Data Pipeline, ML</strong></p>
-    <p>💬 Ask me about: <strong>Java, Python, Javascript, AWS</strong></p>
+  <div align="left">
+   <ul>
+    <li><strong>🌱 Currently learning: </strong><i>DevOps, AWS, AI</i></li>
+    <br>
+    <li><strong>👯 Looking to collaborate on:</strong> <i> Backend Development, ML, CI/CD, Data Pipeline</i></li>
+    <br>
+    <li><strong>💬 Ask me about: </strong><i>Java, Python, Javascript, AWS</i></li>
+    <br>
+    <li><strong>⚡ Fun fact: </strong> <i>Debugged production at midnight, but can’t debug my sleep schedule.</i></li>
+    <br>
+   </ul>
+   </div>
+   <br>
+<hr>
     <p>📫 How to reach me:
       <p align="center">
         <a href="mailto:anisulislamfahad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -28,13 +39,15 @@
     </p>
     <p>📄 Know about my experiences:
     <br>
-      <p align="center"><a href="https://anisul-islam-prog.github.io"><img src="https://img.shields.io/website?url=https%3A%2F%2Fanisul-islam-prog.github.io&up_message=Visit%20Website&style=for-the-badge"/></a></p>
+      <p align="center">
+      <a href="https://anisul-islam-prog.github.io">
+      <img src="https://img.shields.io/website?url=https%3A%2F%2Fanisul-islam-prog.github.io&up_message=Visit%20Website&style=for-the-badge"/>
+      </a>
+      </p>
     </p>
-    <p>⚡ Fun fact: <strong>Debugged production at midnight, but can’t debug my sleep schedule.</strong></p>
   </p>
 </div>
 
-<hr/>
 <h2 align="center">🛠️ Skills</h2>
 <div align="center">
   <h3>Frontend</h3>
@@ -67,10 +80,10 @@
 <h2 align="center">🌟 Featured Repos</h2>
 <p align="center">
    <a href="https://github.com/anisul-islam-prog/neobank-core"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=neobank-core&theme=merko" alt="neobank-core"/></a>
-   <a href="https://github.com/anisul-islam-prog/spring-boot-chatapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=spring-boot-chatapp&theme=merko" alt="spring-boot-chatapp"/></a>
+   <a href="https://github.com/anisul-islam-prog/anisul-islam-prog.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=anisul-islam-prog.github.io&theme=merko" alt="anisul-islam-prog.github.io"/></a>
    <a href="https://github.com/anisul-islam-prog/STLFusingMLAlgorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=STLFusingMLAlgorithms&theme=merko" alt="STLFusingMLAlgorithms"/></a>
    <a href="https://github.com/anisul-islam-prog/e-ticketforbus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=e-ticketforbus&theme=merko" alt="e-ticketforbus"/></a>
-   <a href="https://github.com/anisul-islam-prog/anisul-islam-prog.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=anisul-islam-prog.github.io&theme=merko" alt="anisul-islam-prog.github.io"/></a>
+   <a href="https://github.com/anisul-islam-prog/spring-boot-chatapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=spring-boot-chatapp&theme=merko" alt="spring-boot-chatapp"/></a>
    <a href="https://github.com/anisul-islam-prog/dsvtojson"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anisul-islam-prog&repo=dsvtojson&theme=merko" alt="dsvtojson"/></a>
  
 </p>
