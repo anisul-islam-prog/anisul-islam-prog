@@ -9,7 +9,7 @@
 
 ### 🔥 Quick bits
 
-- 🌱 I’m currently learning **AWS, ML, AI**
+- 🌱 I’m currently learning **DevOps, AWS, AI**
 - 👯 I’m looking to collaborate on **CI/CD, Backend Development, Data Pipeline, ML**
 - 💬 Ask me about **Java, Python, Javascript, AWS**
 - 📫 How to reach me: 
